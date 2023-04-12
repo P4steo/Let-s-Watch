@@ -1,6 +1,15 @@
 
-# Baza Filmowa
-Connect with database, admin login system, movies_generator, searching, sorting
+## Let’s Watch
+Simple website presenting different movies.
+## Functionalities
+presenting movie description
+
+searching different movies by a title
+
+filtering movies by categories
+
+maintaining page via admin account
+
 
 
 ## Authors
